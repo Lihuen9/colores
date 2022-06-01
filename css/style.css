@@ -1,0 +1,18 @@
+body {
+    background: #dc5050;
+    font-family: popins;
+
+
+.color {
+  /* position: 50%;
+    left: 50%;
+    transform:traslate(-50%,50%);
+    text-align:center; */
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    
+
+
